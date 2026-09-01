@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the version-specific Zenodo record."
+title: "Reproducibility package for signed scattering-delay balance and exact nodal laws"
+type: software
+authors:
+  - family-names: Nicolas
+    given-names: Jérôme
+    orcid: "https://orcid.org/0009-0000-8574-8103"
+    affiliation: "Lycée Saint Charles, Marseille, France"
+    email: "jerome.nicolas@ac-aix-marseille.fr"
+version: 1.0.0
+repository-code: "https://github.com/JeromeNicolas2026/signed-delay-nodal-pumpkin-chains"
+url: "https://github.com/JeromeNicolas2026/signed-delay-nodal-pumpkin-chains"
+license: MIT
+keywords:
+  - quantum graphs
+  - nodal surplus
+  - scattering phase
+  - Wigner-Smith delay
+  - Barra-Gaspard measure
+  - reproducibility
+abstract: >-
+  Numerical data, independent phase-count certificates, phase-count-guided
+  length sweeps, and deterministic post-processing for exact nodal-surplus
+  laws on adjacent edge-disjoint two-cycle pumpkin chains.
